@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T03:34:35Z" name="Default suite" finished-at="2022-10-21T03:35:19Z" duration-ms="43621">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T03:34:35Z" name="Default test" finished-at="2022-10-21T03:35:19Z" duration-ms="43621">
+      <class name="orangehrm_project.code1">
+        <test-method is-config="true" signature="BT()[pri:0, instance:orangehrm_project.code1@2e48362c]" started-at="2022-10-21T09:04:35Z" name="BT" finished-at="2022-10-21T09:04:45Z" duration-ms="9595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="testcase1()[pri:0, instance:orangehrm_project.code1@2e48362c]" started-at="2022-10-21T09:04:45Z" name="testcase1" finished-at="2022-10-21T09:04:57Z" duration-ms="12285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase2()[pri:1, instance:orangehrm_project.code1@2e48362c]" started-at="2022-10-21T09:04:57Z" name="testcase2" finished-at="2022-10-21T09:04:58Z" duration-ms="1059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method signature="testcase3()[pri:2, instance:orangehrm_project.code1@2e48362c]" started-at="2022-10-21T09:04:58Z" name="testcase3" finished-at="2022-10-21T09:05:11Z" duration-ms="12303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method signature="testcase4()[pri:3, instance:orangehrm_project.code1@2e48362c]" started-at="2022-10-21T09:05:11Z" name="testcase4" finished-at="2022-10-21T09:05:16Z" duration-ms="5079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:orangehrm_project.code1@2e48362c]" started-at="2022-10-21T09:05:16Z" name="AT" finished-at="2022-10-21T09:05:19Z" duration-ms="3235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+      </class> <!-- orangehrm_project.code1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

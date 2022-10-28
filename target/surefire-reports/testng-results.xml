@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T03:41:27Z" name="Surefire suite" finished-at="2022-10-21T03:42:31Z" duration-ms="63475">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T03:41:27Z" name="Surefire test" finished-at="2022-10-21T03:42:31Z" duration-ms="63475">
+      <class name="orangehrm_project.code1">
+        <test-method is-config="true" signature="BT()[pri:0, instance:orangehrm_project.code1@6b67034]" started-at="2022-10-21T09:11:27Z" name="BT" finished-at="2022-10-21T09:11:40Z" duration-ms="12644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="testcase1()[pri:0, instance:orangehrm_project.code1@6b67034]" started-at="2022-10-21T09:11:40Z" name="testcase1" finished-at="2022-10-21T09:11:53Z" duration-ms="12428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase2()[pri:1, instance:orangehrm_project.code1@6b67034]" started-at="2022-10-21T09:11:53Z" name="testcase2" finished-at="2022-10-21T09:11:55Z" duration-ms="2539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method signature="testcase3()[pri:2, instance:orangehrm_project.code1@6b67034]" started-at="2022-10-21T09:11:55Z" name="testcase3" finished-at="2022-10-21T09:12:08Z" duration-ms="12454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method signature="testcase4()[pri:3, instance:orangehrm_project.code1@6b67034]" started-at="2022-10-21T09:12:08Z" name="testcase4" finished-at="2022-10-21T09:12:12Z" duration-ms="4133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:orangehrm_project.code1@6b67034]" started-at="2022-10-21T09:12:12Z" name="AT" finished-at="2022-10-21T09:12:31Z" duration-ms="19181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+      </class> <!-- orangehrm_project.code1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
